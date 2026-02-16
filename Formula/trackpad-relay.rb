@@ -1,8 +1,8 @@
 class TrackpadRelay < Formula
   desc "WebSocket-based cursor relay for iOS remote control of macOS"
   homepage "https://github.com/siah-maraat/mac-juggler"
-  url "https://github.com/siah-maraat/mac-juggler/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d8bb5c04d5ff32a8e38ca29a19b3a45211cb02e4d1c73cd837de264c9ddc57cd"
+  url "https://github.com/siah-maraat/mac-juggler/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "4c78cbb0a97ebac7f39148cac33418073a7240c3761f8117de3e0e045833f1ee"
   license "MIT"
 
   depends_on :macos
